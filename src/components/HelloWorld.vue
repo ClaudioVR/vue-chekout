@@ -16,7 +16,7 @@
         </h1>
 
         <p class="mt-5 subheading font-weight-regular">
-          Combining Vue.js and Vuetify to create a mock check out do.
+          Combining Vue.js and Vuetify to create a mock checkout.
           <br>Check out my code on 
           <a
             href="https://github.com/ClaudioVR?tab=repositories"
